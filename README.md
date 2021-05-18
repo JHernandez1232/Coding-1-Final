@@ -1,4 +1,4 @@
 # Coding-1-Final
  These are the starter files for S2021 Coding 1
 
-So this site has no intended purpose what so ever. In the About page you can see that we added a box style that contained information about me along with my profile picture being a fish in a tank (which hopefully made you laugh). 
+So this site has no intended purpose whatsoever. On the About page you can see that we added a box style that contained information about me along with my profile picture being a fish in a tank (which hopefully made you laugh). On the Contact page, I added I got two contacts I added by implementing a box style containing the information and putting it under the profile picture. For the footer, I decided to go with a more... dynamic feeling I suppose. The colors looked really nice to me but the only this that I couldn't really help with was the information, you can see that I only put three things in the footer and hopefully it doesn't affect my grade. For my own personal logo I put Harsh Patel.

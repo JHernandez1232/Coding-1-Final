@@ -1,15 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body {
     background-color: lightgrey;
 }
 
 .aboutbox {
-    background-color: lightgrey;
+    background-color: white;
     width: 850px;
     padding: 15px;  
     margin: 10px;
     position: absolute;
     left: 35%;
     top: 30%; 
+}
+
+.aboutbox2 {
+    background-color: white;
+    width: 850px;
+    padding: 15px;  
+    margin: 10px;
+    position: absolute;
+    left: 35%;
+    top: 80%; 
 }
 
 .aboutpage {
@@ -23,26 +38,55 @@ body {
     left: 5%;
 }
 
+.fishtank3 {
+    position: absolute;
+    width: 25%;
+    height: 35%;
+    left: 23%;
+    top: 30%;
+}
+
+.fishtank2 {
+    position: absolute;
+    width: 30%;
+    height: 40%;
+    left: 5%;
+    top: 70%;
+}
+
+.fishtank4 {
+    position: absolute;
+    width: 25%;
+    height: 35%;
+    left: 52%;
+    top: 30%;
+}
+
 .contactinfo {
     text-align: center;
 }
 
-.fishtank2 {
-    position: relative;
-    width: 30%;
-    height: 80%;
-    left: 35%;
-    background-color: white;
-}
+
 
 .contactlist {
     background-color: white;
-    width: 30%;
+    width: 25%;
     padding: 15px;  
     margin: 10px;
     position: absolute;
-    left: 34.3%;
-    top: 52%; 
+    left: 22.3%;
+    top: 63.8%; 
+}
+
+.contactlist2 {
+    background-color: white;
+    width: 25%;
+    padding: 15px;  
+    margin: 10px;
+    position: absolute;
+    left: 51.3%;
+    top: 63.8%; 
+    height: 21%;
 }
 
 .phone {
@@ -57,3 +101,92 @@ body {
     text-align: center;
 }
     
+
+
+.Footer2 > h3{
+    color: rgb(212, 125, 26);
+    text-align: center;
+    font-size: 150%;
+}
+
+.Footer2 > p {
+    color: white;
+    
+    font-size: 80%;
+}
+
+.Footer {
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    padding: 15px;  
+    margin: 10px;
+    position: absolute;
+    left: -1%;
+    top: 135.5%; 
+    height: 35%;
+    z-index: 0;
+}
+ 
+.Footer2 {
+    background-color: rgb(0, 0, 0);
+    width: 20%;
+    padding: 15px;  
+    margin: 10px;
+    position: absolute;
+    left: 5%;
+    top: 140%; 
+    height: 20%;
+    z-index: 1000;
+}
+
+.Footer3 > h3{
+    color: rgb(212, 125, 26);
+    font-size: 150%;
+    text-align: center;
+}
+
+.Footer3 > p {
+    color: white;
+    text-align: center;
+    font-size: 80%;
+}
+
+
+ 
+.Footer3 {
+    background-color: rgb(0, 0, 0);
+    width: 20%;
+    padding: 15px;  
+    margin: 10px;
+    position: absolute;
+    left: 39.2%;
+    top: 140%; 
+    height: 20%;
+    z-index: 1000;
+}
+
+
+
+.Footer4 > h3 {
+    color: rgb(212, 125, 26);
+    text-align: center;
+    font-size: 150%;
+}
+
+.Footer4 > p {
+    color: white;
+    text-align: center;
+    font-size: 80%;
+}
+ 
+.Footer4 {
+    background-color: rgb(0, 0, 0);
+    width: 20%;
+    padding: 15px;  
+    margin: 10px;
+    position: absolute;
+    left: 73.2%;
+    top: 140%; 
+    height: 20%;
+    z-index: 1000;
+}
