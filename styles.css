@@ -1,12 +1,42 @@
 .aboutbox {
     background-color: lightgrey;
-    width: 900px;
+    width: 850px;
     padding: 15px;  
     margin: 10px;
     position: absolute;
-    left: 40%;
+    left: 35%;
+    top: 30%; 
 }
 
 .aboutpage {
     text-align: center;
+}
+
+.fishtank {
+    position: absolute;
+    width: 30%;
+    height: 40%;
+    left: 5%;
+}
+
+.contactinfo {
+    text-align: center;
+}
+
+.fishtank2 {
+    position: relative;
+    width: 30%;
+    height: 80%;
+    left: 35%;
+    box-shadow: 10px 5px 3px;
+}
+
+.contactlist {
+    background-color: lightgrey;
+    width: 30%;
+    padding: 15px;  
+    margin: 10px;
+    position: absolute;
+    left: 34.3%;
+    top: 30%; 
 }
