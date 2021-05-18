@@ -1,3 +1,7 @@
+body {
+    background-color: lightgrey;
+}
+
 .aboutbox {
     background-color: lightgrey;
     width: 850px;
@@ -28,15 +32,28 @@
     width: 30%;
     height: 80%;
     left: 35%;
-    box-shadow: 10px 5px 3px;
+    background-color: white;
 }
 
 .contactlist {
-    background-color: lightgrey;
+    background-color: white;
     width: 30%;
     padding: 15px;  
     margin: 10px;
     position: absolute;
     left: 34.3%;
-    top: 30%; 
+    top: 52%; 
 }
+
+.phone {
+    text-align: center;
+}
+
+.myname {
+    text-align: center;
+}
+
+.email {
+    text-align: center;
+}
+    
